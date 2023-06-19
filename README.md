@@ -1,4 +1,5 @@
 # GIT : Gestionnaire de version ... 
+<img src="./logo.png" alt="logo de bdeb">
 ## Analyste : produit du code 
 ## Gestion de version  : 
 - dépots : repository
